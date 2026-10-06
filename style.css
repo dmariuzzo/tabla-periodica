@@ -170,12 +170,12 @@ h1, h2 {
 @media (prefers-color-scheme: dark) {
 
     body {
-        background: #0e0d2e;
+        background: #2b2629;
         color: #e0e0e0;
     }
 
     .container-table {
-        background: #16213e;
+        background: #323133;
         box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5);
     }
 
